@@ -1,4 +1,1 @@
-[Yu2jeong Blog](https://yu2jeong.github.io/)
-================================
-
-
+# Yu2Jeong Dev Blog
